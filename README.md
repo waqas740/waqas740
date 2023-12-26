@@ -59,6 +59,7 @@ A well-qualified Full-Stack Developer is familiar with a wide range of programmi
 ### You can also find me on ...
 
 <a href="mailto:waqasiqbal740@gmail.com" target="_blank" title="waqasiqbal740@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/waqas-iqbal-55763690/" target="_blank" title="LinkedIn" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
 <a href="https://calendly.com/waqas740" target="_blank" title="Calendly" rel="noreferrer"><img src="https://assets.calendly.com/assets/frontend/media/calendly-33a0809afc4c21162dd7.svg" alt="Calendly" width="30" height="30"/></a>
 <a href="https://www.upwork.com/freelancers/~014943a6d54194021d" title="Waqas iqbal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-tile.svg" alt="Upwork" width="25" height="30"/></a>
 
