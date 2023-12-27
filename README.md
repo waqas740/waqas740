@@ -14,7 +14,7 @@ A well-qualified Full-Stack Developer is familiar with a wide range of programmi
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Angular" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Nextjs" rel="noreferrer"><img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" alt="Nextjs" width="60" height="40"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Expressjs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Expressjs" width="60" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Expressjs" rel="noreferrer"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Expressjs" width="40" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Hapijs" rel="noreferrer"><img src="https://hapi.dev/img/hapi.svg" alt="Hapijs" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="30" height="30"/></a>&nbsp;&nbsp;
