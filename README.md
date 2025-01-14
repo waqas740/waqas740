@@ -3,7 +3,7 @@
 A well-qualified Full-Stack Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities offering 7 years of related experience.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/waqas740/)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/waqas-iqbal-55763690/)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/waqas740/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasiqbal740@gmail.com)
 [![devtree](https://github.com/waqas740/waqas740/blob/8866061662518bb842f6026a1b2dd43e0bfdc35b/devtree%20(2).png)](https://devtree.app/waqas)
 
